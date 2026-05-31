@@ -1,11 +1,33 @@
 <h1 align="center">Jᴜᴇ Vɪᴏʟᴇ Gʀᴀᴄᴇ</h1>
-<h3 align="center">ALL TIME ANIME FUN</h3>
+<h3 align="center">ONE FOR ALL</h3>
 
-- 1 **THAT TIME I GOT REINCARNATED AS A SLIME**
 
-- 2 **THE WRONG WAY TO USE HEALING MAGIC**
+🎴 Favorite Anime
 
-- 3 **TOWER OF GOD**
+
+- 1 THAT TIME I GOT REINCARNATED AS A SLIME ⭐⭐⭐⭐⭐
+
+- 2 THE WRONG WAY TO USE HEALING MAGIC ⭐⭐⭐⭐⭐
+
+- 3 TOWER OF GOD ⭐⭐⭐⭐⭐
+
+
+Name: Jᴜᴇ Vɪᴏʟᴇ Gʀᴀᴄᴇ
+
+Location: Planet Earth 🌍
+
+Status: Watching Anime
+
+Power Level: Over 9999+ ⚡
+
+Favorite Activity:
+  - Anime
+  - Manga
+  - Gaming
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="180"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
