@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Jᴜᴇ Vɪᴏʟᴇ Gʀᴀᴄᴇ</h1>
+<h3 align="center">ALL TIME ANIME FUN</h3>
 
-<!--
-**JueVi0leGrace/JueVi0leGrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 1 **THAT TIME I GOT REINCARNATED AS A SLIME**
 
-Here are some ideas to get you started:
+- 2 **THE WRONG WAY TO USE HEALING MAGIC**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 3 **TOWER OF GOD**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/jueviolegraceo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jueviolegraceo" height="30" width="40" /></a>
+</p>
