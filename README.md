@@ -1,6 +1,7 @@
 <div align="center">
 
-# 𝙅𝙪𝙚 𝙑𝙞𝙤𝙡𝙚 𝙂𝙧𝙖𝙘𝙚
+# 𝙅𝙪𝙚 𝙑𝙞𝙤𝙡𝙚 𝙂𝙧𝙖𝙘𝙚 
+## Twenty Fifth Bam
 ### 🎴 「 ONE FOR ALL 」 🎴
 
 <img src="https://i.imgur.com/dBaSKWF.gif" width="700">
@@ -17,7 +18,6 @@
 
 ```yaml
 Name: Jue Viole Grace
-Alias: Twenty-Fifth Bam
 Planet: Earth 🌍
 Status: Watching Anime While Coding 💻
 Power Level: 999999+ ⚡
@@ -64,12 +64,17 @@ Goal: Become a Anime Legend
 ## 🌌 Currently Watching
 
 ```diff
++ Re:Zero
++ Demon Slayer
 + Tower of God
 + That Time I Got Reincarnated as a Slime
-+ Demon Slayer
-+ Re:Zero
 ```
-
+<div align="center">
+  <!-- Secondary Atmospheric Scene for the Footer Alignment -->
+  <img src="https://images.alphacoders.com/130/thumb-1920-1309624.jpeg" width="60%" style="border-radius: 8px;" alt="Violet Walking Scene" />
+  
+  <p><sub style="color: #666;">"Live... and be free. From the bottom of my heart, I love you."</sub></p>
+</div>
 ---
 
 
@@ -77,20 +82,11 @@ Goal: Become a Anime Legend
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://instagram.com/jueviolegraceo">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<p align="left">
+<a href="https://instagram.com/jueviolegraceo" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "A true anime fan never skips the opening." ⚡
-
-<img src="https://media.tenor.com/7M4r4vP4wL8AAAAC/anime-night.gif" width="100%">
-
-</div>
+<a href="https://t.me/Jue_Vi0leGrace" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
+</a>
+</p>
