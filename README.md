@@ -1,92 +1,81 @@
 <div align="center">
 
-# 𝙅𝙪𝙚 𝙑𝙞𝙤𝙡𝙚 𝙂𝙧𝙖𝙘𝙚 
-## Twenty Fifth Bam
-### 🎴 「 ONE FOR ALL 」 🎴
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:30105B,100:7B2CBF&height=220&section=header&text=JUE%20VIOLE%20GRACE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=ANIME%20FAN%20%7C%20DEVELOPER%20%7C%20DREAMER&descAlignY=60&descSize=14" width="100%" alt="Jue Viole Grace anime-inspired purple banner"/>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" width="700">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=B794F4&center=true&vCenter=true&width=700&lines=Welcome+to+my+world;Anime+%E2%9C%A6+Code+%E2%9C%A6+Creativity;Climbing+my+own+Tower+of+Growth;Keep+learning.+Keep+building." alt="Typing introduction"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Anime+Lover+%F0%9F%8E%B4;Manga+Reader+%F0%9F%93%9A;Full+Stack+Developer+%F0%9F%92%BB;Tower+of+God+Fan+%E2%9A%94%EF%B8%8F;Always+Leveling+Up+%F0%9F%94%A5">
+[![GitHub](https://img.shields.io/badge/GitHub-JueVi0leGrace-181717?style=for-the-badge&logo=github)](https://github.com/JueVi0leGrace)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jueviolegraceo)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jue_Vi0leGrace)
 
 </div>
 
 ---
 
-## 🎭 About Me
+## 🌌 About Me
 
-```yaml
-Name: Jue Viole Grace
-Planet: Earth 🌍
-Status: Watching Anime While Coding 💻
-Power Level: 999999+ ⚡
-Goal: Become a Anime Legend 
-```
+- **Name:** Jue Viole Grace
+- **Identity:** Anime fan & developer
+- **Interests:** Anime, manga, coding, creative projects, Telegram bots, and open source
+- **Motto:** Level up every day.
 
----
+I enjoy the worlds of anime and technology — from discovering unforgettable stories to building useful things with code. This profile is my little corner of the internet.
 
-## ⚔️ Favorite Anime
+## ⚔️ Anime Universe
 
-<table>
-<tr>
-<td align="center">
-<img src="https://media.tenor.com/Ww2fM4i3KxAAAAAC/rimuru-tempest.gif" width="250"><br>
-<b>That Time I Got Reincarnated as a Slime</b><br>
-⭐⭐⭐⭐⭐
-</td>
+| Anime | Why it's on my list |
+|:---:|:---|
+| **Tower of God** | A mysterious climb and unforgettable characters |
+| **That Time I Got Reincarnated as a Slime** | World-building and an overpowered journey |
+| **Re:Zero** | Dark fantasy, emotion, and resilience |
+| **Demon Slayer** | Beautiful animation and intense battles |
+| **The Wrong Way to Use Healing Magic** | A fun fantasy adventure |
 
-<td align="center">
-<img src="https://media.tenor.com/j4j4N2A9K7YAAAAC/healing-magic.gif" width="250"><br>
-<b>The Wrong Way To Use Healing Magic</b><br>
-⭐⭐⭐⭐⭐
-</td>
+## 💻 Tech & Tools
 
-<td align="center">
-<img src="https://media.tenor.com/SLh6NQ4u5bQAAAAC/tower-of-god-bam.gif" width="250"><br>
-<b>Tower of God</b><br>
-⭐⭐⭐⭐⭐
-</td>
-</tr>
-</table>
-
----
-
-
----
-
-
----
-
-
----
-
-## 🌌 Currently Watching
-
-```diff
-+ Re:Zero
-+ Demon Slayer
-+ Tower of God
-+ That Time I Got Reincarnated as a Slime
-```
 <div align="center">
-  <!-- Secondary Atmospheric Scene for the Footer Alignment -->
-  <img src="https://images.alphacoders.com/130/thumb-1920-1309624.jpeg" width="60%" style="border-radius: 8px;" alt="Violet Walking Scene" />
-  
-  <p><sub style="color: #666;">"Live... and be free. From the bottom of my heart, I love you."</sub></p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
 </div>
----
 
+## 📊 GitHub Status
 
----
+<div align="center">
 
-## 🌐 Connect With Me
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JueVi0leGrace&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=9F7AEA&text_color=FFFFFF&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JueVi0leGrace&layout=compact&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=FFFFFF" alt="Top languages"/>
 
-<p align="left">
-<a href="https://instagram.com/jueviolegraceo" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://t.me/Jue_Vi0leGrace" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" />
-</a>
-</p>
+<img src="https://streak-stats.demolab.com?user=JueVi0leGrace&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🗡️ Current Arc
+
+- 🔭 Exploring new coding ideas and anime-inspired projects
+- 🌱 Learning, experimenting, and improving step by step
+- 🛠️ Building projects around bots and online communities
+- 🎯 Creating things that are useful, memorable, and fun
+
+## 🤝 Connect
+
+<div align="center">
+
+**Have an idea, a project, or an anime recommendation? Let's connect.**
+
+[![Instagram](https://img.shields.io/badge/Instagram-@jueviolegraceo-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jueviolegraceo)
+[![Telegram](https://img.shields.io/badge/Telegram-@Jue_Vi0leGrace-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Jue_Vi0leGrace)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,50:30105B,100:090014&height=120&section=footer" width="100%" alt="Purple anime-inspired footer"/>
+
+<sub>「 The climb is long. Keep moving forward. 」</sub>
+
+</div>
