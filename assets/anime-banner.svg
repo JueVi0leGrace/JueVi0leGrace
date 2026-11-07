@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b1d"/><stop offset=".52" stop-color="#17113d"/><stop offset="1" stop-color="#32104a"/></linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#79d7ff"/><stop offset=".52" stop-color="#b58cff"/><stop offset="1" stop-color="#ff83c8"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="360" fill="url(#bg)"/>
+<circle cx="920" cy="110" r="95" fill="#e8b6ff" opacity=".10" filter="url(#blur)"/>
+<circle cx="920" cy="110" r="60" fill="none" stroke="#e8b6ff" stroke-opacity=".22"/>
+<path d="M0 275 L80 210 135 245 205 170 270 250 340 195 415 270 500 205 565 260 640 190 720 260 805 190 875 250 960 175 1040 250 1120 195 1200 260 V360 H0Z" fill="#080b1a" opacity=".86"/>
+<path d="M0 300 L120 260 210 285 330 235 440 290 560 245 680 295 800 235 920 285 1040 230 1200 280" fill="none" stroke="#8f7cff" stroke-opacity=".3" stroke-width="2"/>
+<g fill="#ffb8e2" opacity=".78"><path d="M160 78q16-15 23 3q-16 4-23-3z"/><path d="M195 125q13-18 23-2q-14 7-23 2z"/><path d="M1030 60q14-17 24-1q-15 7-24 1z"/><path d="M1090 145q13-16 23-1q-15 6-23 1z"/><path d="M770 70q13-17 23-1q-15 7-23 1z"/></g>
+<g stroke="url(#glow)" fill="none" opacity=".62"><path d="M80 315 L300 315" stroke-width="2"/><path d="M900 315 L1120 315" stroke-width="2"/><path d="M1020 215 L1140 95" stroke-width="3"/><path d="M1010 205 L1130 85" stroke-width="1"/></g>
+<text x="600" y="145" text-anchor="middle" font-family="Georgia,serif" font-size="52" font-weight="bold" letter-spacing="5" fill="#f4edff">JUE VIOLE GRACE</text>
+<text x="600" y="190" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" letter-spacing="7" fill="url(#glow)">ANIME  •  MANGA  •  CODE</text>
+<text x="600" y="235" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#c8c3e8" opacity=".9">WELCOME TO MY ANIME UNIVERSE</text>
+<rect x="410" y="260" width="380" height="1" fill="url(#glow)" opacity=".7"/>
+</svg>
